@@ -16,5 +16,5 @@ The goal of this app is to generate a professional README file through prompts u
 
 ## Usage
 - Video
-https://user-images.githubusercontent.com/116880367/230531041-86c0ea36-bf2b-4e8b-8be5-92246d84ac96.mov
+<video src='https://user-images.githubusercontent.com/116880367/230531041-86c0ea36-bf2b-4e8b-8be5-92246d84ac96.mov' width=600></video>
 

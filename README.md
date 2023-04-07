@@ -1,7 +1,5 @@
 # Professional README Generator Starter Code
 
-# Employee Tracker
-
 ## Description
 The goal of this app is to generate a professional README file through prompts using node js in the terminal.
 

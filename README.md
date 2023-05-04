@@ -5,7 +5,13 @@ The goal of this app is to generate a professional README file through prompts u
 
 ## Table of Contents
 - [Installation](#installation)
+- [Description](#description)
 - [Usage](#usage)
+
+
+## Description
+
+This is a simple command-line application to quickly generate professional README.md file for user's project from user's input using the Node.js inquirer package. When the application is invoked, user is prompted to enter information for project title, description, installation instructions, usage information, credits, license, features, contribution guidelines, test instructions, and questions.
 
 ## Installation
 - Install [Node.js v16](https://nodejs.org/en/blog/release/v16.16.0/)
